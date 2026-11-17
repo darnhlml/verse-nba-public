@@ -1,11 +1,11 @@
 {
-  "updated_utc": "2026-11-16T18:42:06.878315+00:00",
-  "date_et": "2026-11-16",
+  "updated_utc": "2026-11-17T18:44:26.521063+00:00",
+  "date_et": "2026-11-17",
   "season": "2026-27",
   "source": "ESPN historical box scores + third-party FanDuel odds feed",
-  "historical_rows": 4354,
-  "projections": 1192,
-  "priced_props": 324,
+  "historical_rows": 4421,
+  "projections": 744,
+  "priced_props": 344,
   "odds_mode": "validated FanDuel API rows",
   "caveat": "Experimental, uncalibrated probabilities and ROI. No verified injury or lineup feed. Check prices and availability directly at FanDuel."
 }
